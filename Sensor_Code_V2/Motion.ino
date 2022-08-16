@@ -20,7 +20,7 @@ void stopMoving() {
 
 }
 
-void Movement()  {
+void movement()  {
 
   // Inputs
 
