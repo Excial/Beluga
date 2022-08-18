@@ -7,13 +7,21 @@ A biosensor designed for microbial auditing, which is mounted onboard an autonom
 
 ### V1
 [✓] 3.3V LDO
+
 [✓] 12V Buck Converter
+
 [✓] ESP32 Module 
+
 [✓] Bootloader
+
 [✓] Troubleshooting LEDs
+
 [x] Motor Driver LEDs
+
   - Too bright, need to increase resistance from 1K.
+  - 
 [✓] Motor Drivers
+
 [✓] Mounting holes
 
 #### Improvements
