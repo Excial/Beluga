@@ -18,23 +18,22 @@ A biosensor designed for microbial auditing, which is mounted onboard an autonom
 
 [X] Motor Driver LEDs
 
-  - Too bright, need to increase resistance from 1K.
+  - Too bright, need to increase resistance from 1K to 10K.
 
 [✓] Motor Drivers
 
 [X] Circuit Protection
 
-  - When 14.8V Reverse Polarity (RP) is applied, I = 1.01A
-  - Circuit still functions after RP test
+  - Circuit Protection LED mounted wrongly, refer to schematic.
+  - Source and Drain of Mosfet is mounted wrongly, needs to be switched.
 
-[✓] Mounting holes
+[✓] M2 Mounting holes
 
 #### Improvements
 1. Add a stepper Motor driver
 2. Add a buzzer
 
 ### V2
-
 Stay tuned for updates
 
 
