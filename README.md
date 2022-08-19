@@ -32,6 +32,8 @@ A biosensor designed for microbial auditing, which is mounted onboard an autonom
 #### Improvements
 1. Add a stepper Motor driver
 2. Add a buzzer
+3. Add a USB Port
+4. Add a FDTI chip
 
 ### V2
 Stay tuned for updates
