@@ -34,9 +34,10 @@ A biosensor designed for microbial auditing, which is mounted onboard an autonom
 2. Add a buzzer
 3. Add a USB Port
 4. Add a FDTI chip
+5. Increase Resistance for LEDs from 1k to 10K
 
 ### V2
-Stay tuned for updates
+
 
 
 
