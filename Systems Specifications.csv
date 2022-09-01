@@ -1,0 +1,14 @@
+Name,id,Component_class,current,voltage,capacitance,inductance	
+ESP32,C701342,Microcontroller,0.3A,3.3V,-,-,-
+A3909,C2653462,Motor Driver,0.3A,12V,-,-,SSOP-10
+"LED1,LED2,LED3",C72043,LED Diode, 0.02A, 3.3V,-,-,"0603"
+R81,C14675,Resistor,-,-,-,-,"0603"
+"C3,C4,C5",C92487,Capacitor,-,16V,10uF,-,"0603"
+I1,C2929502,Inductor,60V,3A,-,33uH,12.3x12.3x3.8mm
+
+
+
+
+
+
+ 
