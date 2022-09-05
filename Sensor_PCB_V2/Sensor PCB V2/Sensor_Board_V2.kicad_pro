@@ -394,6 +394,15 @@
       "version": 1
     },
     "net_format_name": "",
+    "ngspice": {
+      "fix_include_paths": true,
+      "fix_passive_vals": false,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 0,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "spice_adjust_passive_values": false,
@@ -405,6 +414,10 @@
     [
       "016087fe-f710-41ac-b846-4c7af1a17d8c",
       ""
+    ],
+    [
+      "8cec0049-374d-4894-b951-b42d172684cd",
+      "USB_Bootloader"
     ]
   ],
   "text_variables": {}
